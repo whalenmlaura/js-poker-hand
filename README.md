@@ -1,6 +1,11 @@
-# js-poker-hand
-JavaScript assignment using https://deckofcardsapi.com API to determine poker hand value
+# JavaScript Poker Hand Assignment
+
+Using the https://deckofcardsapi.com API to determine the value of a poker hand
 
 ### Demo
 
-[Poker Hands](http://127.0.0.1:5500/Assignments/Assignment2C/)
+[Poker Hands](https://htmlpreview.github.io/?https://github.com/whalenmlaura/js-poker-hand/blob/master/index.html)
+
+### Authors
+
+**Laura Whalen**
